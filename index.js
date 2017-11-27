@@ -8,3 +8,9 @@ function scuberGreetingForFeet(number){
     return 'No can do.'
   }
 }
+
+function ternaryCheckCity(city){
+  if (city === "NYC"){
+    rturn "Ok, sounds good."
+  }
+}
