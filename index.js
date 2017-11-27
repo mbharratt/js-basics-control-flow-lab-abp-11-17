@@ -4,6 +4,6 @@ function scuberGreetingForFeet(number){
     return ('This one is on me!')
   } else if (number >= 2001) {
     return ('I will gladly take your thirty bucks.');
-  }
+  } else if ( number < 2500 && number > 2000){}
   }
 }
